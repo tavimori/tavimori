@@ -1,5 +1,5 @@
 Hi there,
 
-I'm currently incubating new networks and feeding them with some modern protocols with magic FEC enabled.  
+I'm currently incubating new networks and feeding them with modern protocols, utilizing math- and information-theory-driven approaches.  
 
-My repos are not organized.
+My repos are not organized. For more information, please visit my homepage.
